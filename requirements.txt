@@ -1,7 +1,8 @@
 numpy
 seaborn
 pandas
-EchoTorch
-easyesn
+# EchoTorch
+# easyesn
+pyrcn
 nilearn
 scipy
